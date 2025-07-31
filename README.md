@@ -2,14 +2,13 @@
 
 Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor com interesse em projetos inovadores e criativos.
 
-##Linguagens e Ferramentas
+## Linguagens e Ferramentas
 
-- **Linguagens:** Python, JavaScript, HTML, CSS e php
+- **Linguagens:** Python, JavaScript, HTML, CSS e PHP  
 - **Ferramentas:** Git, VSCode, Tembo e PythonAnywhere
 
-##Projetos
+## Projetos
 
-- **Machine Learning:** Explorando modelos para resolver problemas reais.
-- **ACE Aleatory code engine** modelo de algoritmo genetico que programa 
-- **Web Interativa:** Aplicações que melhoram a experiência do usuário
-
+- **Machine Learning:** Explorando modelos para resolver problemas reais.  
+- **ACE (Aleatory Code Engine):** Modelo de algoritmo genético que programa.  
+- **Web Interativa:** Aplicações que melhoram a experiência do usuário.
