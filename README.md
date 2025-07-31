@@ -1,8 +1,6 @@
 # Eu sou Vinicius
 
 Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor com interesse em projetos inovadores e criativos.
-Estudante do cavg e estudante por conta infelizmente as instituições não estão prontas para o mundo real
-
 ##Linguagens e Ferramentas
 
 - **Linguagens:** Python, JavaScript, HTML, CSS e php
