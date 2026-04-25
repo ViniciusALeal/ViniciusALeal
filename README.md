@@ -4,8 +4,8 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor com interesse em projetos i
 
 # Linguagens e Ferramentas
 
-- **Linguagens:** Python, C#, Kotlin, JavaScript, HTML, CSS e PHP  
-- **Ferramentas:** Git, VSCode,VSStudio, Tembo e PythonAnywhere
+- **Linguagens:** Python, JavaScript, HTML, CSS e PHP  
+- **Ferramentas:** Git, Antigravity
 
 # Projetos
 
